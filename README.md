@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=17630061068&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app)/api/pin/?username=17630061068&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
