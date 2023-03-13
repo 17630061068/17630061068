@@ -1,4 +1,4 @@
-### Hi there 👋
+### I`m xiongzhiqiang 
 
 <!--
 **17630061068/17630061068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 国家一级干饭人
+- 💘 new Object(); 
+- 🍔 水煮肉片，火锅，烧烤，胡辣汤，烩面 ...
+- 🤔 I’m looking for help with ...
+- 💬 邮箱, 欢迎交流: xzq_xiongzhiqiang@163.com ...
+- ⚡ 做自己 ...
+
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=17630061068&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17630061068&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
